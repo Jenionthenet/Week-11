@@ -1,0 +1,38 @@
+
+#addSubtractTitleDiv {
+    background-color: hsl(105deg 68% 54%) ;
+    height: 225px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    
+}
+
+#addSubtractTitle {
+    text-align: center;
+
+}
+
+#buttonDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#inputBox {
+    border: none;
+    height: 50px;
+    margin: 10px;
+}
+
+.addSubtractBtns {
+    background-color: hsl(0deg 0% 57%);
+    border: none;
+    color: white;
+    height: 80px;
+    width: 150px;
+    align-items: center;
+    font-size:x-large ;
+    
+}
